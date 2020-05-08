@@ -1,8 +1,9 @@
-##React Todo App
+## React Todo App
 
 This is a sample react todo app done step-by-step.
 
-###Instructions
+### Instructions
+
 First clone this repository.
 
 `$ git clone https://github.com/kabirbaidhya/react-todo-app.git`
